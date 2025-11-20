@@ -1,1 +1,1 @@
-# softversko-inzenjerstvo-2026
+# Softversko inženjerstvo 2026. izrada projekta
